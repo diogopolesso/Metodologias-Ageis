@@ -31,3 +31,9 @@ Para Scrum, o conceito de time é extremamente importante! O product owner, o sc
 A metáfora que utiliza o Rugby ainda se relaciona ao conceito de sprint, que é quando o time rouba a bola e o jogador deve correr rapidamente com ela. A partir disso mais uma Sprint é iniciada e novos pontos são acumulados. É um processo iterativo e incrementativo.
 
 Vale notar que o Scrum de 1995 não é mesmo de hoje: com o passar dos anos e a grande adoção do processo, ele deixou de ser um método e passou a ser um framework, um conjunto de ideias.
+
+****
+
+## Mas afinal o que é o Scrum e qual é a principal diferença entre ele e outros Métodos Ágeis?
+
+O Scrum é um Framework Ágil e sua principal característica é trabalhar com time-boxes: caixas de tempo cujo tamanho, uma vez definido, não muda durante a Sprint atual.
