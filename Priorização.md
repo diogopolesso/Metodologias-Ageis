@@ -21,3 +21,27 @@ E qual o ganho obtido pelo Nubank com essa solução? Muitas pessoas começaram 
 Exercício:
 
 Pense nas atividades que você quer ou não fazer. Pense e as priorize, porque às vezes falamos que não temos tempo, mas todo mundo tem 24 horas por dia. A questão é: qual a nossa prioridade? No que dou mais valor? Com o que gasto mais tempo? Tente fazer uma lista de prioridades das atividades que você não está fazendo. Já é um ótimo começo. Não é uma tarefa fácil. E se não é fácil para a vida, para o mundo profissional é mais complicado ainda.
+
+## Matrizes de Priorização 
+
+Têm como objetivo ajudar na visualização das tarefas e dar clareza para os processos decisórios, além de ajudar a montar uma cadeia de priorização mais eficiente.
+
+Uma delas é a Matriz de Eisenhower, um jeito fácil de definir como priorizar suas tarefas de modo que as mais importantes não sejam deixadas de lado pelas que aparecem de repente ou delegar aquelas que são urgentes.
+
+## Matriz de Eisenhower
+
+A ideia é que todas as suas tarefas possam ser distribuídas em quadrantes, divididas em dois eixos: Importância e Urgência. Esses quadrantes recebem um valor de 1 a 4 baseado em sua prioridade.
+
+Cada quadrante corresponde às tarefas:
+
+De muita importância e muita urgência: Crises.
+De muita importância, mas pouca urgência: Metas e planejamentos.
+De pouca importância, mas muita urgência: Interrupções.
+De pouco importância e pouca urgência: Distrações.
+Defina suas tarefas dentro de cada quadrante:
+
+Crises: não há tempo a perder, coloque no topo das suas tarefas.
+Metas e planos: programe-se para fazer, e tente reservar um tempo para isso.
+Interrupções: delegue ou faça apenas o que não for atrapalhar seu trabalho.
+Distrações: ignore.
+Uma vez classificadas as tarefas disponíveis dentro destes quadrantes, você pode então decidir como irá proceder.
