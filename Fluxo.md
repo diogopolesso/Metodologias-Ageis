@@ -5,4 +5,3 @@ Para delinear um fluxo, é necessário que as priorizações estejam estabelecid
 Primeiramente, o projeto e o objetivo final devem ser estabelecidos para que o problema seja resolvido de maneira rápida e eficaz.
 
 Então, segmente em pequenas metas. Determine a tarefa que deve ser resolvida com prioridade, tendo um fluxo focado no que mais importa.
-
