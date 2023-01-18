@@ -8,3 +8,4 @@ Quando é terminada uma finalidade, faz sentido ir atrás do Feedback de seu cli
 Com essa reação do cliente (feedback) é possível fazer alterações no fluxo ou até eliminar tarefas que não sejam mais necessárias.
 
 O Feedback é importantíssimo e é fruto das outras duas diferenças (priorização e fluxo). A priorização nos permite trabalhar com um fluxo diferenciado. Entregamos as coisas na nossa ordem de prioridade e, ao entregá-las, obtemos o feedback. Como consequência, o feedback mudará a priorização. É um ciclo.
+
