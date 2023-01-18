@@ -45,3 +45,4 @@ Metas e planos: programe-se para fazer, e tente reservar um tempo para isso.
 Interrupções: delegue ou faça apenas o que não for atrapalhar seu trabalho.
 Distrações: ignore.
 Uma vez classificadas as tarefas disponíveis dentro destes quadrantes, você pode então decidir como irá proceder.
+
