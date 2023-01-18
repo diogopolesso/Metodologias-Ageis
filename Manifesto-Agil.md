@@ -52,4 +52,3 @@ O segundo valor diz que ter um software funcionando é mais importante do que um
 O terceiro valor diz que a colaboração do cliente é mais importante que a negociação de contrato, ou seja, a proximidade com o cliente é essencial para que o feedback tenha valor e fazer com que isso tenha impacto no fluxo de trabalho.
 
 O quarto e último valor diz que responder às mudanças é mais importante do que seguir o plano, ou seja, a mudança é algo natural e, se batermos de frente com essa situação, teremos um cliente insatisfeito.
-
