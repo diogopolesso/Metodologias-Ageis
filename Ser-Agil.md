@@ -11,3 +11,4 @@ Falar é mais fácil que fazer, pois isso exige o envolvimento do ou da cliente 
 O Manifesto Ágil surgiu em 2001, mas falaremos dele no próximo vídeo. A priorização, o ciclo rápido e o feedback fazem parte de uma interseção dos métodos e frameworks ágeis. O Manifesto Ágil é algo simples de entender, mas nem tão simples de executar.
 
 A agilidade não trará mais velocidade logo de imediato, mas sim ao longo do tempo quando o desperdício for eliminado, e a qualidade for aumentada e percebida.
+
