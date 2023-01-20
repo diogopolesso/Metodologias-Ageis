@@ -9,4 +9,3 @@ Um exemplo que aplica o método Waterfall na engenharia civil é o de construç�
 Porém, para o desenvolvimento de software, esse método herdado de engenharias não era o ideal, porque a cada tarefa concluída eram validadas novas mudanças a partir de feedbacks, o que fazia com que o fluxo fosse alterado.
 
 Para a engenharia de software o método Waterfall já não dava conta das mudanças que ocorriam no meio do caminho. Então ele teve que passar por uma reestruturação para que, depois dos feedbacks de cada tarefa desenvolvida, o fluxo pudesse ser alterado durante o processo de desenvolvimento do projeto.
-
