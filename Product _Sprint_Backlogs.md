@@ -47,3 +47,4 @@ Durante o Planning é comum verificarmos o entendimento da história quebrando-a
 - Filtro de busca de vagas no menu principal.
 
 Muito comumente também, embora não seja regra, é vermos histórias em cartões (fichas pautadas) e tarefas em post-its.
+
