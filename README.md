@@ -37,3 +37,25 @@ Vale notar que o Scrum de 1995 não é mesmo de hoje: com o passar dos anos e a 
 ## Mas afinal o que é o Scrum e qual é a principal diferença entre ele e outros Métodos Ágeis?
 
 O Scrum é um Framework Ágil e sua principal característica é trabalhar com time-boxes: caixas de tempo cujo tamanho, uma vez definido, não muda durante a Sprint atual.
+
+****
+
+## Ken Schwaber e Jeff Sutherland (1995)
+
+Dois profissionais da indústria do desenvolvimento de software, Ken Schwaber e Jeff Sutherland, apresentaram no Texas um artigo científico. Nele eles demonstraram uma metodologia para se trabalhar com equipes menores e mesmo assim desenvolver produtos complexos. A metodologia foi chamada de Scrum. Apesar de surgida para lidar com desafios complexos, hoje se utiliza o Scrum também para outros fins. Portanto, o Scrum é utilizado:
+
+- Onde há complexidade é preciso uma forma mais flexível de trabalho;
+- Hoje, se tornou quase uma norma para empresas de desenvolvimento de software;
+- Preferido por diversas organizações, no mundo.
+
+## Definição Scrum (The Scrum Guide):
+
+"Um framework dentro do qual pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível."
+
+O Scrum é simples de entender e o "The Scrum Guide" tem 17 páginas fáceis de ler. Por meio do guia aprendemos sobre princípios e regras que formam o framework e que nos ajudam a trabalhar desafios complexos. Ao mesmo tempo o Scrum é extremamente difícil de dominar, pois necessita que as regras sejam seguidas a risca. As regras se tornam complexas, uma vez que temos elas de um lado e do outro o comportamento humano (as pessoas). Então, é preciso fazer com que o time aceite as regras.
+
+O Scrum não é processo ou técnica para construir produtos. Ele não nasce para ser técnica de construção de um único tipo de produto, serve para qualquer produto, principalmente, os complexos.
+
+## Metodologia - Framework
+
+O framework funciona como um conjunto de regras de um jogo, ele nos permite jogar de diferentes formas. Assim, podemos empregar as técnicas de diversas maneiras obtendo diferentes resultados.
