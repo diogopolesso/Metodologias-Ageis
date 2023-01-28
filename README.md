@@ -59,3 +59,15 @@ O Scrum não é processo ou técnica para construir produtos. Ele não nasce par
 ## Metodologia - Framework
 
 O framework funciona como um conjunto de regras de um jogo, ele nos permite jogar de diferentes formas. Assim, podemos empregar as técnicas de diversas maneiras obtendo diferentes resultados.
+
+## Sugestões de Fontes de Estudo:
+
+- Scrum Guide: Criado por Ken Schwaber e Jeff Sutherland, este guia nos traz as regras, artefatos e princípios por trás do Scrum. O Scrum puro e fundamental possui apenas 17 páginas e é muito rápido de ler;
+
+- Scrum Body of Knowledge (SBOK): Este guia traz consigo práticas Agile em forma de processos. Neste livro temos práticas, conceitos e métodos ágeis, não exclusivos do Scrum. Pode-se encontrar este livro gratuitamente e em português.
+
+- Scrum - Gestão ágil para projetos de sucesso: de Rafael Sabbagh
+
+- Scrum 360: Um guia completo e prático de agilidade de Jorge Audy. São livros bons que podem nos ajudar a entender ainda mais os conceitos por trás do Scrum.
+
+
