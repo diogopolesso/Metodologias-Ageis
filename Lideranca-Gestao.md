@@ -46,3 +46,10 @@ E tanto o Perde-ganha quanto o Perde-Perde, são situações negativas para a em
 
 A Hierarquia de Necessidades está relacionada com as necessidades do homem. Desde ter um lugar como o banheiro até um local para trabalhar e buscar a realização pessoal. Veremos agora a Hierarquia a partir dessas necessidades:
 
+![Scrum+Hierarquia](https://user-images.githubusercontent.com/111795220/216116733-bcf9855a-778f-423c-80e6-d30cd2429bb5.jpg)
+
+- Fisiológicas - Necessidades como comida e banheiro;
+- Segurança - Necessidade de se sentir protegido;
+- Social - Necessidade de estabelecer laços e ter companhia;
+- Estima - Necessidade de se sentir bem;
+- Auto Realização - Necessidade de realizar os sonhos.
