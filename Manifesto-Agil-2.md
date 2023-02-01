@@ -42,3 +42,12 @@ Surgiu dentro do campo do desenvolvimento de software, mas pode ser aplicado em 
 11) As melhores arquiteturas emergem de times auto-organizados - É preciso empoderar o time para melhores resultados;
 
 12) Em intervalos regulares, o time reflete sobre como se tornar mais eficaz - Reuniões de revisão e retrospectiva.
+
+## Declaração de Interdependência (2005)
+
+A Declaração de Interdependência nos apresenta uma relação de ecossistema. O Time de Projeto não pode interagir apenas entre si para entregar melhores resultados, ele precisa entender o cliente e as partes interessadas como interdependentes. Como parte do mesmo ecossistema. Então a Declaração de Interdependência surge como um documento de apoio ao manifesto ágil. E o que se ganha com isso?
+
+- ROI
+- Resultados
+- Criatividade
+- Adaptação
